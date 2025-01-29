@@ -2,7 +2,33 @@
 
 ###
 
-<p align="left">Em Desenvolvimento!</p>
+<p align="left">💻 Desenvolvedor de Software | Infraestrutura | ERP TOTVS Protheus
+
+📍 Mogi das Cruzes | 🎓 Gestão de Tecnologia da Informação
+
+Apaixonado por tecnologia, atuo no desenvolvimento de soluções eficientes e escaláveis, combinando conhecimentos em desenvolvimento de software, infraestrutura e ERP TOTVS Protheus. Busco constantemente aprimorar minhas habilidades e explorar novas oportunidades na área de tecnologia.
+
+🚀 Objetivo Profissional
+Atuar nas áreas de Desenvolvimento Web, Infraestrutura, Automação com Python e ERP TOTVS Protheus, aplicando minha experiência para otimizar processos e desenvolver sistemas inovadores.
+
+🔧 Habilidades Técnicas
+✅ Desenvolvimento de Software: Python | Java | HTML | CSS | JavaScript | Frameworks Web
+✅ Infraestrutura e DevOps: Azure | AWS | Arquitetura de Servidores | Bancos de Dados (MySQL, MariaDB, SQL Server)
+✅ ERP TOTVS Protheus: Módulos de Estoque, Compras, PCP, Financeiro, Contábil, Faturamento e Configurador
+✅ Ferramentas: Git/GitHub | SQL | APIs | ODBC
+
+🛒 Projeto em Destaque: C4 Store
+📌 C4 Store – Plataforma de e-commerce desenvolvida para oferecer uma experiência intuitiva e eficiente aos usuários. Contribuí no desenvolvimento da aplicação, incluindo:
+✔ Implementação e manutenção da plataforma.
+✔ Otimização de performance, responsividade e acessibilidade.
+✔ Integração com sistemas de pagamento e gestão de pedidos.
+
+💡 Diferenciais
+🔹 Perfil analítico e foco na resolução de problemas.
+🔹 Capacidade de aprendizado contínuo e adaptação a novas tecnologias.
+🔹 Facilidade para trabalho em equipe e comunicação eficaz.
+
+📩 Sempre aberto a novos desafios e oportunidades na área de tecnologia!</p>
 
 ###
 
