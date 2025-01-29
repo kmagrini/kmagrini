@@ -17,7 +17,7 @@ Atuar nas áreas de Desenvolvimento Web, Infraestrutura, Automação com Python 
 ✅ ERP TOTVS Protheus: Módulos de Estoque, Compras, PCP, Financeiro, Contábil, Faturamento e Configurador
 ✅ Ferramentas: Git/GitHub | SQL | APIs | ODBC
 
-🛒 Projeto em Destaque: C4 Store
+🛒 Projeto em Destaque: 
 📌 C4 Store – Plataforma de e-commerce desenvolvida para oferecer uma experiência intuitiva e eficiente aos usuários. Contribuí no desenvolvimento da aplicação, incluindo:
 ✔ Implementação e manutenção da plataforma.
 ✔ Otimização de performance, responsividade e acessibilidade.
